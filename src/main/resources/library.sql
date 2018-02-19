@@ -1,5 +1,5 @@
 
-CREATE DATABASE `author_book`;
+CREATE DATABASE `library`;
 
 
 
